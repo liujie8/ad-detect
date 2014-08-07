@@ -78,7 +78,7 @@ float adDetect(char * fn, int step = 3, bool print = false)
 		{
 			if(buf[n] >= '0' && buf[n] <= '9')
 			{
-				if(buf[n] > '0')nz++;
+				if(buf[n] > '0')nz++; //counting none zero number
 
 				num[m++] = buf[n];
 
