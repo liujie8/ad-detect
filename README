@@ -1,1 +1,1 @@
-This is a text-based advertisement image detection tool depending on gocr and netpbm. The idea behind this tool is to detect contact information such as phone number or qq numbrer in the image and taking those contact information as important advertisement hints in the image.
+This is a text-based advertisement image detection tool depending on gocr and netpbm. The idea behind this tool is to detect contact information such as phone number or qq number in the image and taking those contact information as important advertisement hints in the image.
